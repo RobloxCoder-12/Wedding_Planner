@@ -11,6 +11,10 @@ EverAfter Planner is a desktop-first, B2B Wedding Planning Dashboard built using
 
 <img width="1907" height="926" alt="image" src="https://github.com/user-attachments/assets/b6d7bab5-115e-4db0-92b0-055d2de8960e" />
 
+
+
+
+
 📊 Dashboard
 
 A powerful at-a-glance view of your wedding planning operations.
