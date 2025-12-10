@@ -2,7 +2,6 @@
 
 EverAfter Planner is a desktop-first, B2B Wedding Planning Dashboard built using React, TypeScript, Tailwind CSS, and real-time data updates. It includes a complete client CRM, project management system, vendor directory, scheduling calendar, interactive wedding timeline builder, task manager, budget tracker, and lead pipeline — all inside a polished, modern admin interface.
   
-<img width="1411" height="695" alt="image" src="https://github.com/user-attachments/assets/f8ef336b-15ec-474c-9fc3-424c257ff9e7" />
 
 <img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/0888ff1f-775c-46aa-a12d-b2b275fb01a6" />
 
